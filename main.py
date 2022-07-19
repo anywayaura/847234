@@ -8,5 +8,5 @@ def get_weather(place):
 
 if __name__ == '__main__':
     print(get_weather('London'))
-    print(get_weather('Аэропорт Шеремеьтево'))
+    print(get_weather('Аэропорт Шереметьево'))
     print(get_weather('Череповец'))
