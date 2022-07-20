@@ -6,8 +6,12 @@ Just add needed places inside it.
 
 **installation:**
 
-`pip install -r requirements.txt`
+```
+pip install -r requirements.txt
+```
 
 **run:**
 
-`python main.py`
+```
+python main.py
+```
